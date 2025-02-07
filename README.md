@@ -7,13 +7,17 @@ Welcome to this project, where we analyze Netflix titles using Amazon QuickSight
 
 This project follows a simple pipeline:
 
-Upload the Netflix dataset to an S3 bucket.
+1. Upload the Netflix dataset to an S3 bucket.
 
-Connect the dataset to Amazon QuickSight.
+2. Connect the dataset to Amazon QuickSight.
 
-Create interactive charts and dashboards.
+3. Create interactive charts and dashboards.
 
-Publish a visually appealing dashboard with meaningful insights.
+4. Publish a visually appealing dashboard with meaningful insights.
+
+   ![image](https://github.com/user-attachments/assets/a42a08ba-e26b-48f6-9151-8531bde70bb7)
+
+
 
 📂 Project Structure
 
